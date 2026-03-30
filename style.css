@@ -67,6 +67,7 @@ a:hover{
   background-size: cover;
   background-postion: center;
   border-bottom-left-radius: 30px;
+  border-top-left-radius: 30px;
 }
 
 .image-two {
