@@ -38,7 +38,17 @@ p {
 }
 
 a {
-  font-size: .3rem;
+  font-size: .6rem;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.section-content {
+  display: grid;
+  grid-template-columns:repeat(2, 240px);
+  grid-template-rows: repeat(3, 240px);
+}
+
+.text-one, .text-two, .text-three {
+  padding: 1.5rem;
 }
