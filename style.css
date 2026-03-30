@@ -10,3 +10,17 @@ html {
   background-color: #f9f4ef;
   font-family: 'Jersey 15'
 }
+
+body {
+  width: 480px;
+  margin: 0 auto;
+}
+
+h1 {
+  padding: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: #716040;
+  color: #f9f4ef;
+}
