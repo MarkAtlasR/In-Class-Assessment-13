@@ -27,12 +27,18 @@ h1 {
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 1.3rem;
   padding: 25px 20px; 
   color: #f25042;
 }
 
 p {
-  font-size: 1rem;
+  font-size: .8rem;
   line-height: 1.6;
+}
+
+a {
+  font-size: .3rem;
+  text-decoration: none;
+  text-transform: uppercase;
 }
