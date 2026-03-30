@@ -34,7 +34,7 @@ h2 {
 
 p {
   font-size: .8rem;
-  line-height: 1.6;
+  line-height: 1.3;
 }
 
 a {
@@ -51,4 +51,25 @@ a {
 
 .text-one, .text-two, .text-three {
   padding: 1.5rem;
+}
+
+.image-one {
+  background:red;
+  background-image: url("https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/9/c/f/9cfc4ec1cb20c9cc3914105771c6eacfe6fec01e.jpeg");
+  background-size: cover;
+  background-postion: center;
+}
+
+.image-two {
+  background: red;
+  background-image: url("https://i.redd.it/tadc-caine-ai-v0-lu3bez2r4mvb1.jpg?s=99b8fdaad5cdb3b6f12d9a26c7976e61399fff28");
+  background-size: cover;
+  background-postion: center;
+}
+
+.image-three {
+  background:red;
+  background-image: url("https://cdn.britannica.com/30/152930-050-CAEA5796/Images-tomography-human-brain.jpg");
+  background-size: cover;
+  background-postion: center;
 }
